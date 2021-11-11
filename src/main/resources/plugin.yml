@@ -1,0 +1,19 @@
+name: EdexHubPl
+main: cn.redcarl.Main
+version: 1.0
+commands:
+   cc:
+      description: Isvalo pokalbiu langa
+      usage: /<command>
+      aliases: [chatclear, clearchat]
+   ccme:
+      description: Isvalo savo pokalbiu langa
+      usage: /<command>
+   vote:
+      description: Balsavimo komanda
+      usage: /<command>
+      aliases: [voting, balsavimas, balsuoti]
+   web:
+      description: Tinklalapio nuoroda
+      usage: /<command>
+      aliases: [website]
